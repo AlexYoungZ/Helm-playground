@@ -1,4 +1,4 @@
-# Helm-playground$
+# Helm-playground
 
 - Develop Helm Charts effectively with practical demonstrations, learning essential flow control actions like If-else, With, and Range, alongside functions such as EQ, AND, BOOLEAN, OR, NOT, DEFAULT, and QUOTE.
 - Learn the complete lifecycle management of Helm Charts: creation, packaging, installation, upgrading, rollback, and uninstallation.
